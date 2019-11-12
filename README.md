@@ -1,8 +1,10 @@
 # Ionic - Exercício 2 - navegação
 
-O código foi testado com o Node v7.10.1.
-
 ## Configuração e avaliação
+
+Dependências:
+
+Este repositório foi testado com o Node.js 7.2.1 e o Ionic 4.3.1 (use o comando `npm install -g ionic@4.3.1` para instalar)
 
 Configuração:
 
@@ -13,7 +15,6 @@ Configuração:
 Avaliação:
 
 - Rode o comando `ionic serve` para rodar a aplicação
-    + Se você não tiver o Ionic instalado, rode `npm install -g ionic`
 - Rode o comando `npm run e2e` para rodar os testes
 - O resultado dos testes aparece no terminal
 
